@@ -37,6 +37,7 @@ Scripts
 *.pyc
 *~
 *.db
+*.sqlite3
 
 # MacOSX
 .DS_Store
