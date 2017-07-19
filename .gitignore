@@ -1,5 +1,8 @@
 *.py[co]
 
+# PyCharm idea
+.idea
+
 # Packages
 *.egg
 *.egg-info
